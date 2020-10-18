@@ -4,7 +4,7 @@ This repo contains code for a joint optimizer that uses K-Nearest Neigbhor metho
 
 Clone: git clone https://github.com/lhvu2/automl_joint_optimizer.git
 
-Setup:
+# Setup:
 
 1. conda create --name knnopt python==3.6.10
 
