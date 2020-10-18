@@ -2,7 +2,7 @@
 
 This repo contains code for a joint optimizer that uses K-Nearest Neigbhor method to find the best next suggestion points for evaluation.
 
-Clone: git clone https://github.com/milu/automl_joint_optimizer.git
+Clone: git clone https://github.com/lhvu2/automl_joint_optimizer.git
 
 Setup:
 
