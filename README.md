@@ -15,7 +15,7 @@ This will create a new conda environment named 'knnopt'
 3. git clone https://github.com/rdturnermtl/bbo_challenge_starter_kit.git 
 
 This will clone the starter kit with bayesmark framework to evaluate the joint optimizer.
-Alternatively, unzip file: bbo_challenge_starter_kit-master.zip from this repo. Note that this starter kit is owned by Ryan Turner. 
+Alternatively, unzip file: bbo_challenge_starter_kit-master.zip from this repo. Note that this starter kit zip file is owned by Ryan Turner. 
 
 4. cd bbo_challenge_starter_kit
 5. pip install -r environment.txt
