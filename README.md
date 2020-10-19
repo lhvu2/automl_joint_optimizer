@@ -1,6 +1,7 @@
 # automl_joint_optimizer
 
-This repo contains code for a joint optimizer that uses K-Nearest Neigbhor method to find the best next suggestion points for evaluation.
+This repo contains code for a joint optimizer that uses K-Nearest Neigbhor method to find the best next suggestion points in the search 
+space for evaluation.
 
 Clone: git clone https://github.com/lhvu2/automl_joint_optimizer.git
 
