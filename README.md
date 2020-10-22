@@ -26,3 +26,6 @@ This will copy the knn optimizer into the folder 'example_submissions'.
 
 8. Run the knn optimizer: ./run_local.sh ./example_submissions/baseopt-knn 3
 
+# References
+How to Train an AutoML joint optimizer, https://longvu2.medium.com/how-to-train-an-automl-joint-optimizer-dbe0e71cfd72
+
